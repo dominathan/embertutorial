@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3101667985">
+    <data-source source="LOCAL" name="Rails ember-crm: development" uuid="2346213f-eaa9-4728-96e7-369aeb340aa4">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:ember-crm_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails ember-crm: test" uuid="7a7a640a-4052-488b-be09-8f5c3dc77a2d">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:ember-crm_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails ember-crm: production" uuid="2c1669c8-157f-4923-ae90-65f2c6f6a2af">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:ember-crm_production</jdbc-url>
+      <user-name>ember-crm</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfefdfe7dfe8dfefdff8df87dfe9dff8dfe7dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
